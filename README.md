@@ -18,6 +18,9 @@ The platform is designed to improve campus communication, academic collaboration
 
 ---
 
+[Visit Live Demo](https://uniufo.vercel.app/)
+
+
 ## ✨ Features
 
 ### 🔐 Secure Student Verification
@@ -258,11 +261,11 @@ This project is licensed under the MIT License.
 
 **Faizan Ali**
 
-GitHub: https://github.com/FaiizanAly
+[GitHub](https://github.com/FaiizanAly)
 
-LinkedIn: https://linkedin.com/in/faiizanaly
+[LinkedIn](https://linkedin.com/in/faiizanaly)
 
-Portfolio: https://faizanaly.vercel.app
+[Portfolio](https://faizanaly.vercel.app)
 
 ---
 
