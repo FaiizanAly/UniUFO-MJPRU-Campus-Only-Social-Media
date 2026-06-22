@@ -18,7 +18,7 @@ The platform is designed to improve campus communication, academic collaboration
 
 ---
 
-[Visit Live Demo](https://uniufo.vercel.app/)
+🚀 [Visit Live Demo](https://uniufo.vercel.app/)
 
 
 ## ✨ Features
